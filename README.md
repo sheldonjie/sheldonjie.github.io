@@ -1,38 +1,18 @@
 ## Welcome to My Blog Pages
 
-Division Of Computer Networks
-![division]()
+### Division Of Computer Networks:
+![division](https://github.com/sheldonjie/picture.github.io/blob/master/division.png?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### OSI Reference Model(开放系统互连参考模型)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 参考模型：是指该模型不是必须执行的标准，而是按照该模型的要求，不同企业生产的网络设备可以互相连接。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**通常将网络功能分配到不同层实现：**
+- 高层使用底层的服务
+- 层与层之间相对独立
+- 通过SAP进行数据交换
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sheldonjie/sheldonjie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
