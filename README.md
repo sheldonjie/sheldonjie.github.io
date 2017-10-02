@@ -33,8 +33,7 @@
 > **差错控制：**即在数据传输过程中，如何发现错误，如何更正错误。
 
 ### **3、OSI参考模型对应的数据形式与网络协议范例** ###
-
-|LayerData Form|Network Protocol|
+|Layer|Data Form|Network Protocol|
 |:----:|:----:|:----:|
 |物理层|比特|IEEE802.3、FDDI、NRZ等|
 |数据链路层|帧|IEEE802.2、帧中继、ATM、PPP、HDLC等|
