@@ -56,7 +56,7 @@
 ### **5、LAN/MAN/WAN** ###
 
 |Name|Full Name|Define|
-|:----:|:----:|:----:|
+|:----:|:----:|:----|
 |LAN|Local Area Network|用于机构内部通信与信息传递，常使用以太网技术在公司或校园等局部的地理范围内构建|
 |MAN|Metropolitan Area Network|使用光缆在相距较远的校园或城市内建立通信网络，比LAN的范围更广|
 |WAN|Wide Area Network|用于跨地区或国家远程通信，范围最广，一般由电信运营商建设|
