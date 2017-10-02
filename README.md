@@ -33,6 +33,7 @@
 > **差错控制：**即在数据传输过程中，如何发现错误，如何更正错误。
 
 ### **3、OSI参考模型对应的数据形式与网络协议范例** ###
+
 |Layer|Data Form|Network Protocol|
 |:----:|:----:|:----:|
 |物理层|比特|IEEE802.3、FDDI、NRZ等|
@@ -44,6 +45,7 @@
 |应用层|应用数据|HTTP、FTP、SMTP、SNMP等|
 
 ### **4、TCP/IP Model** ###
+
 |Layer|Address|Network Hardware|
 |:----:|:----:|:----:|
 |数据链路层|MAC地址|L2交换机、无线LAN接入点|
@@ -52,6 +54,7 @@
 |应用层|根据应用程序的不同而不同|L7交换机、防火墙、代理|
 
 ### **5、LAN/MAN/WAN** ###
+
 |Name|Full Name|Define|
 |:----:|:----:|:----:|
 |LAN|Local Area Network|用于机构内部通信与信息传递，常使用以太网技术在公司或校园等局部的地理范围内构建|
@@ -59,6 +62,7 @@
 |WAN|Wide Area Network|用于跨地区或国家远程通信，范围最广，一般由电信运营商建设|
 
 ### **6、Network Interconnection Equipment(网络互联设备)** ###
+
 |Layer|Equipment|
 |:----:|:----:|
 |物理层|转发器(repeater)|
