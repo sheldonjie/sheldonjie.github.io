@@ -1,6 +1,6 @@
 ## Welcome to My Blog Pages
 
-### [*GSM*](https://sheldonjie.github.io/GSM.github.io/) *| [*WCDMA*](https://sheldonjie.github.io/WCDMA.github.io/) *| [*LTE*](https://sheldonjie.github.io/LTE.github.io/)
+### ['GSM'](https://sheldonjie.github.io/GSM.github.io/) * ['WCDMA'](https://sheldonjie.github.io/WCDMA.github.io/) * ['LTE'](https://sheldonjie.github.io/LTE.github.io/)
 *****
 
 ### **1、Computer Network**
