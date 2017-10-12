@@ -1,6 +1,6 @@
 ## <span id="back">Welcome to My Blog Pages</span>
 
-### *Navigation* | [*GSM*](https://sheldonjie.github.io/GSM.github.io/) * [*TD-SCDMA*](https://sheldonjie.github.io/TD-SCDMA.github.io/) * [*LTE*](https://sheldonjie.github.io/LTE.github.io/) * [*No.7信令网*](https://sheldonjie.github.io/No7.github.io/)
+### *Navigation* | [*计算机公共基础知识*](https://sheldonjie.github.io/public.github.io/) * [*GSM*](https://sheldonjie.github.io/GSM.github.io/) * [*TD-SCDMA*](https://sheldonjie.github.io/TD-SCDMA.github.io/) * [*LTE*](https://sheldonjie.github.io/LTE.github.io/) * [*No.7信令网*](https://sheldonjie.github.io/No7.github.io/)
 
 *****
 
